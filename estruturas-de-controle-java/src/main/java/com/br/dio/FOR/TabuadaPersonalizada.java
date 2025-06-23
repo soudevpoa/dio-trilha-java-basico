@@ -1,4 +1,10 @@
-package com.br.dio;
+package com.br.dio.FOR;
+/*
+for (início; condição; incremento) {
+        // o que vai repetir
+}
+
+       */
 
 import java.util.Scanner;
 

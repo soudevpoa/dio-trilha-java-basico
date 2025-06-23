@@ -1,4 +1,4 @@
-package com.br.dio;
+package com.br.dio.WHILE;
 
 public class TabuadaDe1a5 {
 
